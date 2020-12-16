@@ -7,5 +7,4 @@ function ui() {
     console.log(1)
 }
 
-
 ui()
