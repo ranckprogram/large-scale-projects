@@ -50,3 +50,13 @@ lerna import  // 导入本地已经存在的包
 
 - 生成组件基础文件
 - 增加路由 type modify
+- 
+
+
+使用场景考虑
+
+- 创建 view
+- 创建 component
+- 修改 router
+- 单元测试用例代码 test
+
